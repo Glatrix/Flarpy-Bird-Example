@@ -1963,9 +1963,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba0680b2acdb23f4ab401669c7a2337b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pipe: {fileID: 2724315755075214173, guid: 2f7b3b13d79336e42bc27ca64c544c04, type: 3}
-  spawnRate: 3
-  heightOffset: 6
+  _pipePrefab: {fileID: 2724315755075214173, guid: 2f7b3b13d79336e42bc27ca64c544c04, type: 3}
+  _spawnRate: 3
+  _heightOffset: 6
 --- !u!4 &1872980289
 Transform:
   m_ObjectHideFlags: 0
